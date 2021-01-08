@@ -18,7 +18,7 @@ void main() {
 				printf("The string does not belong to the specified grammar");
 				break;
 			} else if(string[count]=='a')
-			continue; else if(flag==1)&&(string[count]='\0')) {
+			continue; else if((flag==1)&&(string[count]='\0')) {
 				printf("String accepted…..!!!!");
 				break;
 			} else {
